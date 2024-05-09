@@ -1,24 +1,68 @@
 body {
-	background-color: #e2d5cb;
+	background-color: #c7ae9e;
 }
 
 #photopaintsplatter{
-	background: url("paintsplash.jpg");
+	background: url("paintsplat.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	height:580px;
+	height:600px;
 	padding:0px;
 }
 
+#homeText {
+	color: #eeeeee;
+	font-size: 25px;
+}
+
+#graphiteText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+#graphiteBrands {
+	color: #3a2a17;
+}
+
+
+p {
+	font-family:Alegreya Sans;
+	text-decoration: none;
+}
+
+li {
+	font-family:Alegreya Sans;
+	color: #372714;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#homePage {
+	background-color: #ffffff;
+}
 
 a {
 	color: #5e3d23;
 	text-decoration: none;
 }
 
+a:hover{
+	color: #f2c7e7;
+}
+
+.topnav a:hover {
+	color: #f2c7e7;
+}
+
+
 h1{
 	color: #eeeeee;
 	font-family:Alegreya;
+	font-size: 75px;
 
 }
 
@@ -31,6 +75,11 @@ h1{
   font-weight: <weight>;
   font-style: normal;
 }
+
+.alegreya-sans-regular {
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 
 ul {
 	list-style-type: none;
