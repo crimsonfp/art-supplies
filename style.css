@@ -26,6 +26,36 @@ body {
 }
 
 
+#coloredpencilText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+#acrylicText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+#oilpastelText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+#watercolorText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+#charcoalText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
 p {
 	font-family:Alegreya Sans;
 	text-decoration: none;
