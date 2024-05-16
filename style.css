@@ -10,6 +10,32 @@ body {
 	padding:0px;
 }
 
+
+.topnav {
+   background-color: #ffffff;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #f2c7e7;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #ededed;
+   color: white;
+}
+
+.topnav a.active {
+   background-color: #ffffff;
+   color: #f2c7e7;
+}
+
+
 #homeText {
 	color: #eeeeee;
 	font-size: 25px;
@@ -21,10 +47,40 @@ body {
 	margin-right: 75px;
 }
 
-#graphiteBrands {
+#coloredpencilBrands {
 	color: #3a2a17;
+	font-family: Alegreya;
 }
 
+#acrylicBrands {
+	color: #3a2a17;
+	font-family: Alegreya;
+}
+
+#oilpastelBrands {
+	color: #3a2a17;
+	font-family: Alegreya;
+}
+
+#watercolorBrands {
+	color: #3a2a17;
+	font-family: Alegreya;
+}
+
+#charcoalBrands {
+	color: #3a2a17;
+	font-family: Alegreya;
+}
+
+#paperBrands {
+	color: #3a2a17;
+	font-family: Alegreya;
+}
+
+#canvasesBrands {
+	color: #3a2a17;
+	font-family: Alegreya;
+}
 
 #coloredpencilText {
 	color: #544027;
@@ -56,6 +112,18 @@ body {
 	margin-right: 75px;
 }
 
+#paperText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+#canvasesText {
+	color: #544027;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
 p {
 	font-family:Alegreya Sans;
 	text-decoration: none;
@@ -78,6 +146,7 @@ ul {
 a {
 	color: #5e3d23;
 	text-decoration: none;
+	font-family:Alegreya Sans;
 }
 
 a:hover{
